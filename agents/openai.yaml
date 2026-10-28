@@ -1,0 +1,6 @@
+interface:
+  display_name: "个人实验数据整理"
+  short_description: "检查实验目录与描述，按确认的方法生成逐步公式Excel及预览图"
+  default_prompt: "使用 $lab-data-organizer 检查并整理我指定目录中的实验数据，先统一提出需要确认的问题。"
+policy:
+  allow_implicit_invocation: true
