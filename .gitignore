@@ -1,4 +1,6 @@
-__pycache__/
+/outputs/
+/.validation-deps/
+**/__pycache__/
 *.py[cod]
 .DS_Store
 Thumbs.db
