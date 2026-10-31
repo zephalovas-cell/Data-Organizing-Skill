@@ -60,4 +60,5 @@ Results采用直接统计最终数据的Excel公式，不通过隐藏或可见�
 ## 子方法与版本
 
 - [Phycoprotein](submethods/Phycoprotein/METHOD.md)：用户已确定的子方法名称。只有本批描述明确指定或用户确认选用后才执行。
+- [Chlorophyll & Carotenoid](<submethods/Chlorophyll & Carotenoid/METHOD.md>)：用户于2026-10-31命名并确认保存的子方法1.0.0，依赖通用方法1.1.0；649/665/470 nm，叶绿素与类胡萝卜素分别使用相反的最低/最高三选样方向。只有本批描述明确指定或用户确认选用后才执行；不改变Phycoprotein或通用计算规则。
 - 1.1.0：新增各区域/各计算步骤粗外边框，登记Phycoprotein子方法；其余计算和布局沿用1.0.0。旧定义保存在 `versions/1.0.0/METHOD.md`。
